@@ -3,6 +3,11 @@
 
 <p align="center">This project is a minimalist Linktree component made in React.js. It permits users to link to multiple social accounts and organize them in one convenient place.</p>
 
+
+![](https://github.com/Romain-Portanguen/minimal_linktree/blob/main/public/assets/sharing/Screenshot%202024-05-04%20at%2017.51.33.png)
+
+<hr>
+
  
 <h2 id="technologies">💻 Technologies</h2>
 
