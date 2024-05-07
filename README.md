@@ -59,4 +59,4 @@ http://localhost:3000
 
 <h3>📄 Licence</h3>
 
-MIT
+This project is distributed under the MIT license.
