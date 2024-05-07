@@ -1,6 +1,3 @@
-<h1 align="center" style="font-weight: bold;">🌲 Minimal Linktree 🌲</h1>
-
-
 ![minimal_linktree](https://socialify.git.ci/Romain-Portanguen/minimal_linktree/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Charlie%20Brown&theme=Auto)
 
 
