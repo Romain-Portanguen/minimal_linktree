@@ -18,6 +18,8 @@
  
 <h2 id="started">🚀 Getting started</h2>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43eb8f19-d204-4f17-8857-51c156c83d3e/deploy-status)](https://app.netlify.com/sites/minimal-linktree/deploys)
+
 You can customise the content of Linktree by modifying the configurations in the ```linktree-data.ts``` file.</br>
 You can define links to your social accounts, badges for your skills, and other details.
  
